@@ -1,1 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbarros36&theme=tokyonight&hide=typescript)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="left">Gabriel Romanini de Barros</h1>
+<h3 align="left">Based in Tallahassee, FL and the Bay Area</h3>
+<h3 align="left">Interested in distributed systems, systems and functional programming.</h3>
